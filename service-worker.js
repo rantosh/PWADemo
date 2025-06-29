@@ -1,10 +1,10 @@
 const CACHE_NAME = 'sample-app-cache-v1';
 const urlsToCache = [
   './',
-  './index.html',
-  './manifest.json',
-  './icons/192.png',
-  './icons/512.png'
+  'https://rantosh.github.io/PWADemo/index.html',
+  'https://rantosh.github.io/PWADemo/manifest.json',
+  'https://rantosh.github.io/PWADemo/icons/192.png',
+  'https://rantosh.github.io/PWADemo/icons/512.png'
   // Add more assets if needed
 ];
 
